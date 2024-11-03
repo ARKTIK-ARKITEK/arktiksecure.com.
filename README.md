@@ -1,63 +1,71 @@
-# ARKTIK Secure - Landing Page
+# Home Security Consulting and Community Protection
 
-## As a Google ADT Security Systems Inspector and Solutions Architect, I provide the following services to homeowners:
-
-- **Home Security Inspections and Risk Assessments**
-- **Advanced Security System Design and Installation**
-- **Smart Home and AI-Enhanced Security Integration**
-- **Digital Privacy and Risk Assessments**
-- **Insurance-Qualifying Security Inspections**
+Welcome to the official repository for **Home Security Consulting and Community Protection**, presented by **J Michael F. Morris**, your trusted Google ADT Security Systems Inspector and Solutions Architect. This repository is a comprehensive resource for homeowners seeking to improve their security, understand potential risks, and make informed choices about protecting their property and family.
 
 ---
 
 ## About J Michael F. Morris
 
-As a Google ADT Security Systems Inspector and Solutions Architect, I am dedicated to offering security solutions that go beyond basic protection. With a background in military training, as well as my affiliations with the Freemasons, York Rite, and the Knights Templar, I bring a legacy of honor, service, and dedication to each client interaction. My approach combines advanced security technology with a deeply personal commitment to the values that unify and protect our community.
-
-As a conservative member of our community, I understand the values we hold dear—family, trust, integrity, and respect for tradition. My goal is to establish relationships that are not only professional but also deeply respectful of our shared principles.
+As a fellow homeowner and a committed member of our community, I understand the investment, worries, and importance of reliable home security. With over 145 years of experience, ADT brings proven reliability and military-grade monitoring to every home. As a Google ADT Security Systems Inspector and Solutions Architect, I’m here to provide not only expert security solutions but also peace of mind and a dedication to the values that unify and protect our community.
 
 ---
 
-## Why I Should Be Welcomed into Your Home
+## Services
 
-In a world where security is both a practical necessity and a personal commitment, I am honored to be a trusted neighbor you can rely on. I believe that home security is about more than installing systems; it’s about creating an environment where families feel safe, valued, and respected. My background in the military and Freemasonry, as well as my dedication to conservative values, make me an ideal partner in protecting what matters most to you.
+As a Google ADT Security Systems Inspector and Solutions Architect, I provide the following services to homeowners:
+
+- **Home Security Inspections and Risk Assessments**  
+  Identifying vulnerabilities to tailor the right security solutions for your home.
+
+- **Advanced Security System Design and Installation**  
+  Implementing custom security solutions with ADT’s trusted technology and continuous monitoring.
+
+- **Smart Home and AI-Enhanced Security Integration**  
+  Leveraging AI and smart home technology for intelligent, responsive security.
+
+- **Digital Privacy and Risk Assessments**  
+  Protecting your data and privacy with solutions designed to mitigate digital threats.
+
+- **Insurance-Qualifying Security Inspections**  
+  Inspections that meet insurance standards, potentially saving you on homeowner’s insurance.
 
 ---
 
-## Supporting Our First Responders
+## Repository Contents
 
-I hold a deep respect for those who serve and protect our communities—law enforcement officers, firefighters, and other first responders. As a gesture of gratitude, I offer special discounts for active-duty military, veterans, first responders, and law enforcement. It is my privilege to give back to those who work tirelessly to ensure our safety and freedom.
+This repository is designed to provide homeowners with practical, actionable security resources.
 
----
+- **docs/**  
+  Contains essential guides and worksheets to help assess and improve home security.
+  
+  - **Security-Risks-and-Vulnerabilities.md**  
+    An overview of common home security vulnerabilities and how Google ADT solutions address them.
 
-## Authentic Connections and Lasting Relationships
+  - **Home-Security-Checklist.md**  
+    A quick-reference checklist for evaluating and enhancing home security.
 
-Each consultation and interaction is an opportunity to create an authentic connection with you and your family. I approach each relationship with the same level of dedication and respect, recognizing that trust is built over time through consistency and integrity. Through our work together, I aim to foster a well-cultivated relationship between our customers, ADT, and myself.
+  - **Risk-Assessment-Worksheet.md**  
+    A worksheet for identifying specific risks around your property to guide security improvements.
 
----
+- **website/**  
+  Contains HTML files for the website, providing easy access to service information, community values, and contact details.
 
-## Core Values
-
-- **Faith**  
-  Guided by principles that honor and protect the well-being of our families and community.
-
-- **Community**  
-  A neighbor you can trust and rely on, dedicated to building strong, enduring relationships.
-
-- **Service**  
-  Honoring those who serve and uphold our values, striving to protect and uplift our community.
+- **assets/**  
+  Houses the website’s CSS and images for a professional, cohesive online presence.
 
 ---
 
 ## Why Choose Professional Security
 
-Not all security systems are created equal. While DIY systems may seem similar on the surface, true security requires expert insight, advanced technology, and unwavering reliability. ADT-certified solutions are built on years of experience, ensuring your home is protected with industry-leading technology, encryption, and 24/7 monitoring. Choosing professional security means you’re choosing real peace of mind.
+Not all security systems are created equal. While DIY systems may seem similar, professional security through ADT provides expert insight, advanced technology, and unmatched reliability. Google ADT’s certified solutions are built on decades of experience, ensuring your home is protected with industry-leading technology, encryption, and 24/7 monitoring.
+
+Choosing professional security means choosing real peace of mind.
 
 ---
 
 ## Contact Information
 
-For consultations, security inspections, or inquiries, please contact me at:
+For consultations, security inspections, or inquiries, please reach out:
 
 - **Phone**: 713-282-6989
 - **Email**: [j.morris@arktiksecure.com](mailto:j.morris@arktiksecure.com)
